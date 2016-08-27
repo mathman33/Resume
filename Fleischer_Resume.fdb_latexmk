@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1450466794 "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.tex" "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.pdf" "Fleischer_Resume" 1450466794
-  "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.aux" 1450466690 1779 2f1d7f443ab4a0591743ead3ba5ffe67 ""
-  "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.tex" 1450466792 10274 14c25bd83de212c2314ada5fcf23ccf3 ""
+["pdflatex"] 1472254798 "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.tex" "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.pdf" "Fleischer_Resume" 1472254799
+  "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.aux" 1472254776 1590 335e36aa6f50855430eea61e140a092d ""
+  "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.tex" 1472254798 10900 0f49de86d24ae8b09ade764fbce72783 ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty" 1338332114 189108 8b3553a56c83ff61acecb36b75d817e2 ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty" 1338332114 70752 45fa392800e07da61fa13446ad46b34d ""
@@ -32,11 +32,11 @@
   "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1428852030 31983 18aeec08f48baa3cf3508d538dd5f459 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1432479681 3849859 39a7d258195bde2394e244961601fbc5 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Fleischer_Resume.tex" 1450466792 10274 14c25bd83de212c2314ada5fcf23ccf3 ""
+  "Fleischer_Resume.tex" 1472254798 10900 0f49de86d24ae8b09ade764fbce72783 ""
   "deedy-resume.cls" 1442954175 5845 214c5ef040e5261f46a0ed313ed8c250 ""
   (generated)
   "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.pdf"
-  "Fleischer_Resume.out"
   "/Users/samuelfleischer/projects/python/Resume/Fleischer_Resume.log"
   "Fleischer_Resume.aux"
   "Fleischer_Resume.log"
+  "Fleischer_Resume.out"
