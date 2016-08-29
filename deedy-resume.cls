@@ -10,6 +10,7 @@
 
 \usepackage[hmargin=0.9cm, vmargin=0.3cm]{geometry} % Specifies horizontal and vertical page margins
 \usepackage{hyperref} % Required for links
+\hypersetup{colorlinks,urlcolor=blue}
 
 %----------------------------------------------------------------------------------------
 %	COLORS
